@@ -3,7 +3,7 @@
 This repository contains my TryHackMe room write-ups.
 
 ## About
-I use this repo to document cybersecurity labs and practice rooms as part of my learning journey.
+I use this repository to document cybersecurity labs and practice rooms as part of my learning journey.
 
 ## Contents
 - Room write-ups
