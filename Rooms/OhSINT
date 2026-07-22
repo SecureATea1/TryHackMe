@@ -1,0 +1,37 @@
+# OhSINT
+
+## Overview
+
+**Difficulty:** Easy  
+**Category:** OSINT (Open Source Intelligence)  
+**Platform:** TryHackMe
+
+OhSINT is an introductory OSINT room that demonstrates how publicly available information can be used to gather intelligence about a target. The room focuses on investigating digital footprints across multiple online sources and highlights the importance of operational security (OPSEC).
+
+---
+
+## Objectives
+
+- Practice gathering publicly available information.
+- Investigate social media and online profiles.
+- Correlate information from multiple sources.
+- Understand the value of OSINT in cybersecurity investigations.
+
+---
+
+## Skills Demonstrated
+
+- OSINT methodology
+- Information gathering
+- Digital footprint analysis
+- Open-source research
+
+---
+
+## Tools Used
+
+- Web browser
+- Search engines
+- Online OSINT resources
+
+---
